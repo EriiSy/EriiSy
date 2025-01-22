@@ -10,11 +10,9 @@
 ### 🌱 Currently Exploring
 - 🕹️ Game development frameworks and tools a example Godot Engine.  
 - 📊 Data science and machine learning concepts.
-- 🧩 languages ​​programming  
 
 ### 🤝 My Space
 - 🏡 I hope this corner of my GitHub feels as welcoming to you as it does to me. It's a reflection of my growth, projects, and aspirations in the tech world.
-
 
 ## TECHNOLOGIES 
 
