@@ -1,6 +1,6 @@
 # 👋 ABOUT ME
 
-### 🟡 Hello, or as we say in Brazil, "Bom Dia"! I'm Eri.
+### 🟡 Hello or "Bom Dia"! I'm Eri.
 
 - 🎓 **Aspiring Computer Scientist**: I'm a Computer Science student with a strong foundation in logic and data structures, and an intermediate level in Object-Oriented Programming (OOP).
 - 🎮 **Game Development Enthusiast**: I've recently discovered a passion for creating games and exploring how technology can bring immersive experiences to life.  
