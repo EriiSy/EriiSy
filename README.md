@@ -29,5 +29,5 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EriiSy&layout=compact&theme=radical)
 
 ## CONTACT ME
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/erii/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:Erysy77@gmail.com)
