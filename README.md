@@ -29,7 +29,7 @@
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EriiSy&layout=compact&theme=radical)
 
 ### **BADGES**
-<img src="https://github.com/user-attachments/assets/00a0fc38-98de-4736-84bd-5a157a9a9189" alt="Badge" height="300">
+<img src="https://github.com/user-attachments/assets/00a0fc38-98de-4736-84bd-5a157a9a9189" alt="Badge" height="100">
 
 ## **CONTACT ME**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/erii/)
