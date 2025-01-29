@@ -1,20 +1,20 @@
 # 👋 ABOUT ME
 
-### 🟡 Hello or "Bom Dia"! I'm Eri.
+### 🟡 **Hello or "Bom Dia"! I'm Eri.**
 
 - 🎓 **Aspiring Computer Scientist**: I'm a Computer Science student with a strong foundation in logic and data structures, and an intermediate level in Object-Oriented Programming (OOP).
 - 🎮 **Game Development Enthusiast**: I've recently discovered a passion for creating games and exploring how technology can bring immersive experiences to life.  
 - 🤖 **Future Data Scientist**: My long-term vision is to build a career in data science, with a focus on artificial intelligence, combining analytical skills with cutting-edge technologies.  
-- 🎨 **UI/UX Designer**: I also work with **UI and UX design** using **Figma**, crafting intuitive and visually appealing interfaces.  
+- 🎨 **UI/UX Designer**: I also work with **UI and UX design** using **Figma**, crafting intuitive and visually appealing interfaces.
 
-### 🌱 Currently Exploring
+### 🌱 **Currently Exploring**
 - 🕹️ Game development frameworks and tools a example Godot Engine.  
 - 📊 Data science and machine learning concepts.
 
-### 🤝 My Space
+### 🤝 **My Space**
 - 🏡 I hope this corner of my GitHub feels as welcoming to you as it does to me. It's a reflection of my growth, projects, and aspirations in the tech world.
 
-## TECHNOLOGIES 
+## **TECHNOLOGIES**
 
 <div style = "display: inline_block"><br/>
     <img aling="center" alt="JavaScript"src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -28,6 +28,9 @@
 ![EriiSy's GitHub stats](https://github-readme-stats.vercel.app/api?username=EriiSy&show_icons=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EriiSy&layout=compact&theme=radical)
 
-## CONTACT ME
+### **BADGES**
+<img src="https://github.com/user-attachments/assets/00a0fc38-98de-4736-84bd-5a157a9a9189" alt="Badge" height="300">
+
+## **CONTACT ME**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/erii/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:Erysy77@gmail.com)
